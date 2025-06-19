@@ -35,9 +35,10 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Favorite Dev Quote
+> “Automation is good, so long as you know exactly where to put the machine.”  
+> — *Eliyahu M. Goldratt*
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
