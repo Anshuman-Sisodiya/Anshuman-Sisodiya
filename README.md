@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-Sisodiya&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aAnshuman-Sisodiya&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuman-Sisodiya&theme=github-dark)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Anshuman-Sisodiya&color=blue)
 
