@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anshuman 👋
+- 🌱 Currently learning DevOps, AWS, Docker, Kubernetes
+- 🔭 Working on cloud infrastructure projects
+- 🎓 MCA Student at IGNOU
+- 🏆 AWS Certified Solutions Architect - Associate
 
-<!--
-**Anshuman-Sisodiya/Anshuman-Sisodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tools & Tech:
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumansisodiya&show_icons=true&theme=github_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansisodiya&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshumansisodiya&theme=github-dark)
+
+![Visitors](https://komarev.com/ghpvc/?username=anshumansisodiya&color=blue)
+
