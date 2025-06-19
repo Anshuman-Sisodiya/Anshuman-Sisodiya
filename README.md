@@ -7,8 +7,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 🚀 An enthusiastic DevOps Engineer hailing from the vibrant tech landscape of Rajasthan, dedicated to orchestrating seamless software delivery and streamlining development pipelines.  
+
 🌟 With a rock-solid foundation in DevOps practices, I thrive on optimizing every facet of the development process. My passion for technology and relentless pursuit of automation fuel my mission to craft efficient and scalable solutions that propel projects to new heights.  
+
 💡 Beyond my DevOps prowess, I'm an insatiable tech enthusiast who sees technology as a catalyst for transformation. I'm always on the cutting edge, eagerly embracing the latest industry trends and ever-hungry to acquire new tools and methodologies.  
+
 🛠️ Armed with my expertise and unwavering commitment, I stand ready to contribute significantly to the growth and triumph of your projects. Let's create something extraordinary together! 🌐👨‍💻🔥
 
 ---
