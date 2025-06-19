@@ -12,11 +12,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats:
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumansisodiya&show_icons=true&theme=github_dark)
+![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman-Sisodiya&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansisodiya&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-Sisodiya&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshumansisodiya&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aAnshuman-Sisodiya&theme=github-dark)
 
-![Visitors](https://komarev.com/ghpvc/?username=anshumansisodiya&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Anshuman-Sisodiya&color=blue)
 
